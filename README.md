@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Hacktoberfest2022, Digital Badges
 
 <!--
 **Arpit-Gulgulia/Arpit-Gulgulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
